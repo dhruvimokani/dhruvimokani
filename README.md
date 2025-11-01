@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h2 align="center">Hi 👋, I'm Dhruvi Mokani</h2>
 <h3 align="center">🎓 First Year Computer Science Student at CHARUSAT University | 💻 Learning to Code Step by Step</h3>
 
 ---
